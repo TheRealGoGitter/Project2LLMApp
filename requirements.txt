@@ -1,0 +1,6 @@
+streamlit
+langchain-ollama
+pdfminer.six
+docx2txt
+beautifulsoup4
+lxml
